@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  NEXT.JS React.js Sanity 
 
  
+ 
 ## Getting Started
 
 First, run the development server:
